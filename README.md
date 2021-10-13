@@ -1,5 +1,5 @@
 # about.geoconnex.us
-A repository serving as a directory for work in the geoconnex.us project. 
+A repository serving as a directory for repositories in the geoconnex.us project. See [project board](https://github.com/orgs/internetofwater/projects/5) to track issues across all of them
 
 There are four repositories other than this one in this project:
 
