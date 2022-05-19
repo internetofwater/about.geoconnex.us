@@ -1,7 +1,9 @@
 # about.geoconnex.us
 A repository serving as a directory for repositories in the geoconnex.us project. See [project board](https://github.com/orgs/internetofwater/projects/5) to track issues across all of them
 
-There are four repositories other than this one in this project:
+There are many repositories other than this one in this project:
+
+## geoconnex.us software, infrastrucure, and documentation
 
 1. [internetofwater/geoconnex.us](https://github.com/internetofwater/geoconnex.us) is the persistent identifier registry (PID) for reference (community) and organizational hydrologic, environmental, and administrative features
 
@@ -12,3 +14,8 @@ There are four repositories other than this one in this project:
 4. [internetofwater/docs.geoconnex.us](https://github.com/internetofwater/docs.geoconnex.us) is the repo for developing best practices and other guidance for data publishers, and for publishing this guidance as a website.
 
 
+## geoconnex.us reference feature development (i.e. data curation)
+
+1. [internetofwater/ref_gages](https://github.com/internetofwater/ref_gages) is the repo for developing the reference gages dataset available at https://reference.geoconnex.us/collections/gages
+
+2. [internetofwater/ref_dams](https://github.com/internetofwater/ref_dams) is the repo for developing the reference gages dataset available at https://reference.geoconnex.us/collections/dams
