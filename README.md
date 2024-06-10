@@ -13,6 +13,8 @@ There are many repositories other than this one in this project:
 
 4. [internetofwater/docs.geoconnex.us](https://github.com/internetofwater/docs.geoconnex.us) is the repo for developing best practices and other guidance for data publishers, and for publishing this guidance as a website.
 
+5. [internetofwater/reference.geoconnex.us](https://github.com/internetofwater/reference.geoconnex.us) is the repo for community reference features using OGC API Features to serve features as HTML pages
+
 ![image](https://github.com/internetofwater/about.geoconnex.us/assets/40066515/2a035f72-2c8f-4875-bdb3-edf739cbcbec)
 
 
