@@ -16,5 +16,9 @@
             <loc>https://register.geoconnex.us/</loc>
             <lastmod>2024-07-31T00:00:00Z</lastmod>
         </url>
+        <url>
+            <loc>https://graph.geoconnex.us/</loc>
+            <lastmod>2024-07-31T00:00:00Z</lastmod>
+        </url>
     <script/>
 </urlset>
