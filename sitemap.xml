@@ -1,23 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-    <loc>https://geoconnex.us/</loc>
-    <lastmod>2024-07-31T00:00:00Z</lastmod>
-</url>
-<url>
-    <loc>https://reference.geoconnex.us/</loc>
-    <lastmod>2024-07-31T00:00:00Z</lastmod>
-</url>
-<url>
-    <loc>https://docs.geoconnex.us/</loc>
-    <lastmod>2024-07-31T00:00:00Z</lastmod>
-</url>
-<url>
-    <loc>https://register.geoconnex.us/</loc>
-    <lastmod>2024-07-31T00:00:00Z</lastmod>
-</url>
-<url>
-    <loc>https://graph.geoconnex.us/</loc>
-    <lastmod>2024-07-31T00:00:00Z</lastmod>
-</url>
+    <url>
+        <loc>https://reference.geoconnex.us</loc>
+        <lastmod>2024-08-19T00:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://docs.geoconnex.us</loc>
+        <lastmod>2024-08-19T00:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://register.geoconnex.us</loc>
+        <lastmod>2024-08-19T00:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://graph.geoconnex.us</loc>
+        <lastmod>2024-08-19T00:00:00Z</lastmod>
+    </url>
 </urlset>
